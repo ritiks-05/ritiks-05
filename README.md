@@ -1,7 +1,7 @@
 # RITIK-KUMAR
 
 # 💫 About Me:
-👨‍💻 Second-year B.Tech CSE student who learns by building, not just watching<br><br>☕ Focused on Java, web development, and problem-solving<br><br>🛠️ Enjoys turning simple ideas into working projects<br><br>📚 Big on consistency, clarity, and learning how things actually work<br><br>🎯 Actively preparing for internships and open-source contributions
+👨‍💻 PreFinal-year B.Tech CSE student who learns by building, not just watching<br><br>☕ Focused on Java, web development, and problem-solving<br><br>🛠️ Enjoys turning simple ideas into working projects<br><br>📚 Big on consistency, clarity, and learning how things actually work<br><br>🎯 Actively preparing for internships and open-source contributions
 
 
 ## 🌐 Socials:
